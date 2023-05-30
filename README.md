@@ -24,7 +24,7 @@ A API estará disponível em: http://localhost:3004
 ### Rotas:
 ##### Para as rotas que utilizam um body JSON,  verifique o PDF com as instruções para cada requisição.
 
-[<a href="">PDF<a>]
+[<a href="https://github.com/brennorichard/TypeORM/blob/main/documents/Atividade%20de%20avalia%C3%A7%C3%A3o%204%20-%20TypeORM.pdf" target="_blank">PDF<a>]
 
 GET /team  &nbsp;&nbsp;&nbsp; Retorna todos os times cadastrados.<br /> 
 GET /team/:id &nbsp;&nbsp;&nbsp; Retorna um time de acordo com seu ID.<br /> 
